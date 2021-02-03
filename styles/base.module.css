@@ -1,0 +1,35 @@
+.container {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.newsitem {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.newsitem a {
+	text-decoration: none;
+	color: rgb(22, 110, 187);
+}
+
+.newsitem a:hover {
+	cursor: pointer;
+}
+
+.h1 {
+	width: 100%;
+	text-align: center;
+	font-size: 4rem;
+	margin: 0 auto;
+	color: rgb(255, 117, 11);
+}
+
+.h2 {
+	width: 100%;
+	font-size: 1rem;
+	text-align: center;
+	margin: 0 auto;
+}
