@@ -1,6 +1,7 @@
 .container {
-	max-width: 1440px;
+	max-width: 1000px;
 	margin: 0 auto;
+	background: rgb(38, 38, 38);
 }
 
 .newsitem {
@@ -12,7 +13,12 @@
 
 .newsitem a {
 	text-decoration: none;
-	color: rgb(22, 110, 187);
+	color: rgb(53, 148, 232);
+}
+
+.newsitem p {
+	text-decoration: none;
+	color: rgb(245, 245, 245);
 }
 
 .newsitem a:hover {
