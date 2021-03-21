@@ -1,40 +1,44 @@
 .container {
-	margin: 0 auto;
-	background: rgb(38, 38, 38);
+  margin: 0 auto;
+  background: rgb(38, 38, 38);
 }
 
 .newsitem {
-	display: flex;
-	width: 100%;
-	justify-content: space-between;
-	align-items: center;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .newsitem a {
-	text-decoration: none;
-	color: rgb(53, 148, 232);
+  text-decoration: none;
+  color: rgb(53, 148, 232);
 }
 
 .newsitem p {
-	text-decoration: none;
-	color: rgb(245, 245, 245);
+  text-decoration: none;
+  color: rgb(245, 245, 245);
 }
 
 .newsitem a:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .h1 {
-	width: 100%;
-	text-align: center;
-	font-size: 4rem;
-	margin: 0 auto;
-	color: rgb(255, 117, 11);
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  margin: 0 auto;
+  color: rgb(255, 117, 11);
 }
 
 .h2 {
-	width: 100%;
-	font-size: 1rem;
-	text-align: center;
-	margin: 0 auto;
+  width: 100%;
+  font-size: 1rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.p {
+  color: whitesmoke;
 }
